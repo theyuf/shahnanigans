@@ -19,14 +19,6 @@ a:hover{text-decoration: none; cursor:pointer;}
 -------------------------------------------------------------- */
 
 @font-face {
-	font-family:'FuturaBT-Book';
-	src: url('./fonts/FuturaBT-Book/Futura%20Book%20font.ttf');
-	src: url('./fonts/FuturaBT-Book/Futura%20Book%20font.ttf') format('truetype');
-	font-weight: normal;
-	font-style: normal;
-}
-
-@font-face {
 	font-family:'Futura-Bold';
 	src: url('./fonts/Futura-Bold/futur.ttf');
 	src: url('./fonts/Futura-Bold/futur.ttf') format('truetype');
@@ -569,11 +561,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .p-bloc-1-style{
 	font-family:"FuturaBT-Light";
 }
-.h1-who-are-we--style{
-	font-family:"Futura-Bold";
-	width:100%;
-	padding:0px 0px 0px 202px;
-}
 h1{
 }
 .h3-style{
@@ -926,6 +913,12 @@ h3{
 	}
 	h3{
 		font-family:"Futura-Bold";
+	}
+	.h1-what-why-how--style{
+		font-size:21px;
+	}
+	.h1-who-are-we--style{
+		font-size:21px;
 	}
 	
 }
