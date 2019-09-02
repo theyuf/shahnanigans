@@ -24,17 +24,17 @@ a:hover{text-decoration: none; cursor:pointer;}
 -------------------------------------------------------------- */
 
 @font-face {
-	font-family:'FuturaBT-Light';
-	src: url('./fonts/FuturaBT-Light/futura%20light%20bt.ttf');
-	src: url('./fonts/FuturaBT-Light/futura%20light%20bt.ttf') format('truetype');
+	font-family:'Futura-Bold';
+	src: url('./fonts/Futura-Bold/futur.ttf');
+	src: url('./fonts/Futura-Bold/futur.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
-	font-family:'Futura-Bold';
-	src: url('./fonts/Futura-Bold/futur.ttf');
-	src: url('./fonts/Futura-Bold/futur.ttf') format('truetype');
+	font-family:'FuturaBT-Light';
+	src: url('./fonts/FuturaBT-Light/futura%20light%20bt.ttf');
+	src: url('./fonts/FuturaBT-Light/futura%20light%20bt.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -230,6 +230,9 @@ a:hover{text-decoration: none; cursor:pointer;}
 .hero .hero-nav{
 	padding-left:inherit;
 	padding-right:inherit;
+}
+.navbar-dark .nav .dropdown-menu .nav-link{
+	color: rgb(64, 64, 64);
 }
 /* = Sticky Nav
 -------------------------------------------------------------- */
@@ -759,27 +762,6 @@ h1{
 	.h1-2-style{
 		text-align:justify;
 	}
-	.toggle-menu{
-		background-color:transparent;
-		border-style:none;
-		border-color:#FFFFFF!important;
-		background-image:url("img/Menu.png");
-		background-position:center center;
-		background-size:100% 100%;
-		background-repeat:no-repeat;
-		background-clip:content-box!important;
-		-webkit-background-clip:content-box!important;
-		width:60px;
-		height:60px;
-		display:block;
-		overflow:visible;
-		border-radius:2px 2px 2px 2px;
-		border-width:2px 2px 2px 2px;
-	}
-	.toggle-menu:hover{
-	}
-	.toggle-menu:active{
-	}
 	.navbar-brand img{
 		height:80px;
 	}
@@ -832,6 +814,15 @@ h1{
 		padding:0px 0px 0px 0px;
 		border-width:1px 1px 1px 1px;
 	}
+	.toggle{
+		background-color:transparent;
+		opacity:1.0;
+		height:50px;
+		background-position:center center;
+		background-repeat:no-repeat;
+		width:50px;
+		background-size:100% 100%;
+	}
 	
 }
 
@@ -847,10 +838,6 @@ h1{
 	}
 	.navbar-brand img{
 		height:65px;
-	}
-	.toggle-menu{
-		width:50px;
-		height:50px;
 	}
 	.h1-29502-style{
 		font-size:40px;
@@ -910,10 +897,6 @@ h1{
 	.h4-connect-style{
 		font-size:20px;
 	}
-	.toggle-menu{
-		width:30px;
-		height:30px;
-	}
 	.h2-style{
 		font-size:16px;
 		width:91.53%;
@@ -937,6 +920,9 @@ h1{
 		width:147px;
 		background-size:125px auto;
 		border-width:3px 3px 3px 3px;
+	}
+	.h1-1-style{
+		background-color:transparent;
 	}
 	
 }
