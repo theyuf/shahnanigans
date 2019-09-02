@@ -19,9 +19,25 @@ a:hover{text-decoration: none; cursor:pointer;}
 -------------------------------------------------------------- */
 
 @font-face {
+	font-family:'FuturaBT-Book';
+	src: url('./fonts/FuturaBT-Book/Futura%20Book%20font.ttf');
+	src: url('./fonts/FuturaBT-Book/Futura%20Book%20font.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
 	font-family:'Futura-Bold';
 	src: url('./fonts/Futura-Bold/futur.ttf');
 	src: url('./fonts/Futura-Bold/futur.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family:'FuturaBT-Heavy';
+	src: url('./fonts/FuturaBT-Heavy/Futura%20Heavy%20font.ttf');
+	src: url('./fonts/FuturaBT-Heavy/Futura%20Heavy%20font.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -484,7 +500,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	width:100%;
 }
 .h1-style{
-	font-family:"FuturaBT-ExtraBlack";
+	font-family:"FuturaBT-Heavy";
 	font-weight:400;
 	line-height:px;
 }
@@ -565,7 +581,7 @@ h1{
 .h3-style{
 	font-size:40px;
 	line-height:50px;
-	font-family:"Futura-Bold";
+	font-family:"FuturaBT-Heavy";
 }
 .img-container-copy-1-copy-1{
 	width:300px;
@@ -592,6 +608,12 @@ h1{
 	border-width:1px 1px 1px 1px;
 }
 h3{
+}
+.h1-what-why-how--style{
+	font-family:"FuturaBT-Heavy";
+}
+.h2-what-why-how--style{
+	font-family:"FuturaBT-Heavy";
 }
 
 /* = Colour
@@ -869,6 +891,7 @@ h3{
 	.h1-style{
 		font-size:35px;
 		width:100%;
+		font-family:"FuturaBT-Heavy";
 	}
 	.h3-style{
 		font-size:30px;
@@ -915,6 +938,7 @@ h3{
 	}
 	.h1-what-why-how--style{
 		font-size:21px;
+		font-family:"FuturaBT-Heavy";
 	}
 	.h1-who-are-we--style{
 		font-size:21px;
