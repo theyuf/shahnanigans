@@ -484,7 +484,7 @@ button{
 -------------------------------------------------------------- */
 
 h1,h2,h3,h4,h5,h6,p,label,.btn,a{
-	font-family:"FuturaBT-Light";
+	font-family:"FuturaBT-Book";
 }
 .container{
 	max-width:1140px;
@@ -605,6 +605,8 @@ h1{
 	border-radius:0px 0px 0px 0px;
 	border-width:1px 1px 1px 1px;
 }
+h3{
+}
 
 /* = Colour
 -------------------------------------------------------------- */
@@ -615,9 +617,6 @@ h1{
 	background-color:#000000;
 }
 .bgc-black-2{
-	background-color:rgba(0,0,0,0.6);
-}
-.bgc-black-3{
 	background-color:#000000;
 }
 
@@ -808,7 +807,7 @@ h1{
 
 @media (max-width: 767px){
 	h1,h2,h3,h4,h5,h6,p,label,.btn,a{
-		font-family:"Montserrat";
+		font-family:"FuturaBT-Book";
 	}
 	.img-container-1{
 		width:300px;
@@ -903,6 +902,12 @@ h1{
 	}
 	.h1-1-style{
 		background-color:transparent;
+	}
+	.h2-what-why-how--style{
+		font-size:22px;
+	}
+	.h2-who-are-we--style{
+		font-size:22px;
 	}
 	
 }
