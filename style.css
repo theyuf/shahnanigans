@@ -650,6 +650,15 @@ h1{
 	color:#FFFFFF!important;
 }
 
+/* Link colour styles */
+
+.ltc-white{
+	color:#FFFFFF!important;
+}
+.ltc-white:hover{
+	color:#cccccc!important;
+}
+
 /* Bloc image backgrounds */
 
 .bg-Layer-20260-25{
