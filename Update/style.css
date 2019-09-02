@@ -15,13 +15,16 @@ body{
 a,button{transition: background .3s ease-in-out;outline: none!important;} /* Prevent ugly blue glow on chrome and safari */
 a:hover{text-decoration: none; cursor:pointer;}
 
-
-/* Preloader */
-
-.page-preloader{position: fixed;top: 0;bottom: 0;width: 100%;z-index:100000;background:#FFFFFF url("img/pageload-spinner.gif") no-repeat center center;}
-
 /* = Web Fonts
 -------------------------------------------------------------- */
+
+@font-face {
+	font-family:'FuturaBT-Book';
+	src: url('./fonts/FuturaBT-Book/Futura%20Book%20font.ttf');
+	src: url('./fonts/FuturaBT-Book/Futura%20Book%20font.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
 
 @font-face {
 	font-family:'Futura-Bold';
@@ -864,7 +867,7 @@ h1{
 
 @media (max-width: 575px){
 	h1,h2,h3,h4,h5,h6,p,label,.btn,a{
-		font-family:"Montserrat";
+		font-family:"FuturaBT-Book";
 	}
 	.img-container-1{
 		width:300px;
