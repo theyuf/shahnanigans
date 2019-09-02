@@ -886,6 +886,8 @@ h3{
 	}
 	.h3-style{
 		font-size:30px;
+		background-clip:text!important;
+		-webkit-background-clip:text!important;
 	}
 	.p-style{
 		font-size:16px;
@@ -905,9 +907,24 @@ h3{
 	}
 	.h2-what-why-how--style{
 		font-size:22px;
+		font-family:"Futura-Bold";
+		background-clip:text!important;
+		-webkit-background-clip:text!important;
 	}
 	.h2-who-are-we--style{
 		font-size:22px;
+		font-family:"Futura-Bold";
+	}
+	h1{
+		font-family:"Futura-Bold";
+	}
+	h2{
+		font-family:"Futura-Bold";
+	}
+	p{
+		font-family:"FuturaBT-Light";
+	}
+	h3{
 		font-family:"Futura-Bold";
 	}
 	
