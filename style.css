@@ -19,6 +19,14 @@ a:hover{text-decoration: none; cursor:pointer;}
 -------------------------------------------------------------- */
 
 @font-face {
+	font-family:'FuturaBT-Book';
+	src: url('./fonts/FuturaBT-Book/Futura%20Book%20font.ttf');
+	src: url('./fonts/FuturaBT-Book/Futura%20Book%20font.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
 	font-family:'Futura-Bold';
 	src: url('./fonts/Futura-Bold/futur.ttf');
 	src: url('./fonts/Futura-Bold/futur.ttf') format('truetype');
