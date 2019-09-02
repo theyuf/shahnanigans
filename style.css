@@ -19,6 +19,14 @@ a:hover{text-decoration: none; cursor:pointer;}
 -------------------------------------------------------------- */
 
 @font-face {
+	font-family:'FuturaBT-Book';
+	src: url('./fonts/FuturaBT-Book/Futura%20Book%20font.ttf');
+	src: url('./fonts/FuturaBT-Book/Futura%20Book%20font.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
 	font-family:'Futura-Bold';
 	src: url('./fonts/Futura-Bold/futur.ttf');
 	src: url('./fonts/Futura-Bold/futur.ttf') format('truetype');
@@ -62,37 +70,6 @@ a:hover{text-decoration: none; cursor:pointer;}
 }
 .bloc-md{
 	padding:50px;
-}
-
-
-/* Background Styles */
-
-.bg-center,.bg-l-edge,.bg-r-edge,.bg-t-edge,.bg-b-edge,.bg-tl-edge,.bg-bl-edge,.bg-tr-edge,.bg-br-edge,.bg-repeat{
-	-webkit-background-size: auto!important;
-	-moz-background-size: auto!important;
-	-o-background-size: auto!important;
-	background-size: auto!important;
-}
-
-
-/* Video Background Styles */
-
-.video-bg-container, .bloc-video{
-	position: absolute;
-	top: 0;
-	bottom: 0;
-	left: 50%;
-	right: -50%;
-	overflow: hidden;
-	transform: translateX(-50%);
-	-webkit-transform:translateX(-50%);
-}
-.bloc-video, .video-bg-container iframe{
-	width: auto;
-	height: auto;
-	min-width: 100%;
-	min-height: 100%;
-	z-index: 0;
 }
 
 
@@ -441,10 +418,6 @@ button{
 
 
 
-/* Scroll FX */
-.scroll-fx-in-range{
-	will-change: opacity;
-}
 
 
 /* ScrollToTop button */
@@ -601,9 +574,6 @@ h3{
 /* Background colour styles */
 
 .bgc-black{
-	background-color:#000000;
-}
-.bgc-black-2{
 	background-color:#000000;
 }
 
