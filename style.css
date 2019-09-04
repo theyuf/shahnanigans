@@ -27,14 +27,6 @@ a:hover{text-decoration: none; cursor:pointer;}
 }
 
 @font-face {
-	font-family:'Futura-Bold';
-	src: url('./fonts/Futura-Bold/futur.ttf');
-	src: url('./fonts/Futura-Bold/futur.ttf') format('truetype');
-	font-weight: normal;
-	font-style: normal;
-}
-
-@font-face {
 	font-family:'FuturaBT-Heavy';
 	src: url('./fonts/FuturaBT-Heavy/Futura%20Heavy%20font.ttf');
 	src: url('./fonts/FuturaBT-Heavy/Futura%20Heavy%20font.ttf') format('truetype');
@@ -476,13 +468,13 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	width:100%;
 }
 .h1-style{
-	font-family:"FuturaBT-Heavy";
+	font-family:"FuturaBT-ExtraBlack";
 	font-weight:400;
 	line-height:px;
 }
 .h1-1-style{
 	font-size:70px;
-	font-family:"Futura-Bold";
+	font-family:"FuturaBT-Heavy";
 }
 .h1-2-style{
 	font-size:20px;
