@@ -493,7 +493,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .img-container-1{
 	width:300px;
-	background-image:url("img/Rangeela.gif");
+	background-image:url("images/Rangeela.gif");
 	background-size:260px auto;
 	background-position:center center;
 	background-repeat:no-repeat;
@@ -512,7 +512,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .img-container-copy-1{
 	width:300px;
-	background-image:url("img/rangeela 2.gif");
+	background-image:url("images/rangeela 2.gif");
 	background-size:262px auto;
 	background-position:center center;
 	background-repeat:no-repeat;
@@ -559,7 +559,7 @@ h1{
 	border-style:solid;
 	border-color:rgba(0,0,0,0.0)!important;
 	overflow:visible;
-	background-image:url("img/ezgif.com-optimize.gif");
+	background-image:url("images/ezgif.com-optimize.gif");
 	border-radius:0px 0px 0px 0px;
 	border-width:1px 1px 1px 1px;
 }
@@ -571,7 +571,7 @@ h1{
 	border-style:solid;
 	border-color:rgba(0,0,0,0.0)!important;
 	overflow:visible;
-	background-image:url("img/ezgif.com-optimize (1).gif");
+	background-image:url("images/ezgif.com-optimize (1).gif");
 	border-radius:0px 0px 0px 0px;
 	border-width:1px 1px 1px 1px;
 }
@@ -619,10 +619,10 @@ p{
 /* Bloc image backgrounds */
 
 .bg-Layer-20260-25{
-	background-image:url("img/Layer%20260%25.png");
+	background-image:url("images/Layer%20260%25.png");
 }
 .bg--20mshs2white{
-	background-image:url("img/%20mshs2white.png");
+	background-image:url("images/%20mshs2white.png");
 }
 
 /* = Custom Bric Data
