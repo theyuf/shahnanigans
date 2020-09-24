@@ -42,6 +42,14 @@ a:hover{text-decoration: none; cursor:pointer;}
 	font-style: normal;
 }
 
+@font-face {
+	font-family:'FuturaBT-Heavy';
+	src: url('./fonts/FuturaBT-Heavy/Futura%20Heavy%20font.ttf');
+	src: url('./fonts/FuturaBT-Heavy/Futura%20Heavy%20font.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
 /* = Blocs
 -------------------------------------------------------------- */
 
@@ -129,6 +137,22 @@ a:hover{text-decoration: none; cursor:pointer;}
 .full-width-bloc .carousel img{
 	width:100%;
 	height:auto;
+}
+
+
+/* Background Styles */
+
+.bg-center,.bg-l-edge,.bg-r-edge,.bg-t-edge,.bg-b-edge,.bg-tl-edge,.bg-bl-edge,.bg-tr-edge,.bg-br-edge,.bg-repeat{
+	-webkit-background-size: auto!important;
+	-moz-background-size: auto!important;
+	-o-background-size: auto!important;
+	background-size: auto!important;
+}
+.bg-center{
+	-webkit-background-size: auto;
+}
+.bg-repeat{
+	background:repeat;
 }
 
 
@@ -637,7 +661,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .img-container-copy-1{
 	width:280px;
-	background-size:244px auto;
+	background-size:83% 92%;
 	background-position:center center;
 	background-repeat:no-repeat;
 	border-style:solid;
@@ -714,7 +738,7 @@ h3{
 	font-weight:500;
 	text-transform:uppercase;
 }
-.h2-what-why-how--style{
+.whatwhyhowtext{
 	font-family:"FuturaBT-Heavy";
 }
 p{
@@ -851,6 +875,10 @@ p{
 }
 .img-testimonial1-style{
 	width:300px;
+	background-size:83% 92%;
+	background-image:url("img/Callen.gif");
+	background-position:center center;
+	background-repeat:no-repeat;
 }
 .bloc1{
 	padding:0px 72px 39px 72px;
@@ -1150,6 +1178,11 @@ p{
 .p-email-style{
 	font-size:20px;
 }
+.p-8-style:hover{
+}
+.p-8-style:active{
+	font-family:"FuturaBT-Book";
+}
 
 /* = Colour
 -------------------------------------------------------------- */
@@ -1250,6 +1283,9 @@ p{
 }
 .bg-intstagram0-1{
 	background-image:url("img/intstagram0.1.png");
+}
+.bg-bcgtopmob{
+	background-image:url("img/bcgtopmob.png");
 }
 
 /* = Custom Bric Data
@@ -1356,7 +1392,7 @@ p{
 		width:150px;
 	}
 	.img-container-copy-1{
-		background-size:243px auto;
+		background-size:83% 93%;
 		background-position:center center;
 		background-repeat:no-repeat;
 		border-color:rgba(0,0,0,0.0)!important;
@@ -1380,7 +1416,7 @@ p{
 		font-weight:normal;
 	}
 	.img-container-copy-1-copy-1{
-		background-size:255px 525px;
+		background-size:83% 92%;
 		background-position:center center;
 		background-repeat:no-repeat;
 		border-color:rgba(0,0,0,0.0)!important;
@@ -1507,7 +1543,7 @@ p{
 		font-size:15px;
 	}
 	.img-style{
-		background-size:241px 498px;
+		background-size:83% 92%;
 	}
 	.p-bloc-4-style{
 		font-size:17px;
@@ -1573,6 +1609,32 @@ p{
 		font-size:17px;
 		color:#ffffff;
 	}
+	.p-8-style{
+		font-family:"FuturaBT-Book";
+	}
+	.wwh1mob{
+		background-size:800px auto;
+	}
+	.wwh3mob{
+		width:300px;
+	}
+	.icon-margin-left{
+		margin-left:70px;
+	}
+	.img-testimonial1-style{
+		background-image:url("img/Callen.gif");
+		background-repeat:no-repeat;
+		background-position:center center;
+		background-size:83% 92%;
+	}
+	.img-container-1{
+		background-size:83% 92%;
+	}
+	.whatwhyhowtext{
+		color:#5328D0!important;
+		font-family:"AvertaStd-Black";
+		font-size:70px;
+	}
 	
 	/* MD Row Margin Offsets */
 	.voffset-clear-md{
@@ -1590,7 +1652,7 @@ p{
 	}
 	.img-container-copy-1{
 		width:275px;
-		background-size:239px auto;
+		background-size:84% 92%;
 	}
 	.navbar-brand img{
 		width:135px;
@@ -1678,6 +1740,7 @@ p{
 	.img-style{
 		width:275px;
 		background-size:222px 498px;
+		background-position:center center;
 	}
 	.p-testimonial1-style{
 		font-size:17px;
@@ -1750,6 +1813,25 @@ p{
 		width:58.71%;
 		font-size:18px;
 	}
+	.wwh1mob{
+		background-size:800px auto;
+	}
+	.wwh3mob{
+		width:350px;
+	}
+	.icon-margin-left{
+		margin-left:84px;
+	}
+	.img-testimonial1-style{
+		background-image:url("img/Callen.gif");
+		background-size:83% 92%;
+		background-position:center center;
+		background-repeat:no-repeat;
+	}
+	.whatwhyhowtext{
+		color:#5328D0!important;
+		font-size:58px;
+	}
 	
 }
 
@@ -1759,7 +1841,8 @@ p{
 	}
 	.img-container-1{
 		width:200px;
-		background-size:145px 306px;
+		background-size:83% 92%;
+		border-width:0px 0px 0px 0px;
 	}
 	.h1-29502-style{
 		font-size:30px;
@@ -1771,7 +1854,7 @@ p{
 		font-size:15px;
 	}
 	.img-container-copy-1{
-		background-size:165px auto;
+		background-size:83% 92%;
 		width:220px;
 		border-width:3px 3px 3px 3px;
 	}
@@ -1799,8 +1882,10 @@ p{
 	}
 	.img-container-copy-1-copy-1{
 		width:200px;
-		background-size:145px 290px;
-		border-width:3px 3px 3px 3px;
+		background-size:83% 92%;
+		background-repeat:no-repeat;
+		background-clip:content-box!important;
+		-webkit-background-clip:content-box!important;
 	}
 	.img-container-copy3{
 		width:200px;
@@ -1810,11 +1895,12 @@ p{
 	.h1-1-style{
 		background-color:transparent;
 	}
-	.h2-what-why-how--style{
-		font-size:22px;
-		font-family:"Futura-Bold";
+	.whatwhyhowtext{
+		font-size:35px;
+		font-family:"AvertaStd-Black";
 		background-clip:text!important;
 		-webkit-background-clip:text!important;
+		color:#5328D0!important;
 	}
 	.h2-who-are-we--style{
 		font-size:22px;
@@ -1888,7 +1974,7 @@ p{
 	.img-style{
 		width:200px;
 		background-image:url("img/TrevorAndrew.gif");
-		background-size:160px 350px;
+		background-size:83% 92%;
 	}
 	.p-8-style{
 		font-size:10px;
@@ -1952,7 +2038,8 @@ p{
 		background-size:560px auto;
 	}
 	.wwh2{
-		background-size:560px auto;
+		background-size:850px auto;
+		background-image:url("img/artmob2.png");
 	}
 	.wwh3{
 		background-size:560px auto;
@@ -2000,6 +2087,25 @@ p{
 	}
 	.p-email-style{
 		font-size:15px;
+	}
+	.wwh1mob{
+		background-size:530px auto;
+	}
+	.wwh2mob{
+	}
+	.wwh3mob{
+		background-size:auto auto;
+		width:230px;
+	}
+	.icon-margin-left{
+		margin-left:52px;
+	}
+	.img-testimonial1-style{
+		width:200px;
+		background-image:url("img/Callen.gif");
+		background-size:83% 92%;
+		background-repeat:no-repeat;
+		background-position:center center;
 	}
 	
 	/* Mobile Text Margin Offsets */
