@@ -11,4 +11,16 @@
 <changefreq>Weekly</changefreq>
 <priority>0.5</priority>
 </url>
+<url>
+<loc>https://www.shahnanigans.co.uk/privacy-policy/</loc>
+<lastmod>2020-09-24</lastmod>
+<changefreq>Weekly</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>https://www.shahnanigans.co.uk/cookie-policy/</loc>
+<lastmod>2020-09-24</lastmod>
+<changefreq>Weekly</changefreq>
+<priority>0.5</priority>
+</url>
 </urlset>

@@ -42,6 +42,22 @@ a:hover{text-decoration: none; cursor:pointer;}
 	font-style: normal;
 }
 
+@font-face {
+	font-family:'FuturaBT-Light';
+	src: url('./fonts/FuturaBT-Light/futura%20light%20bt.ttf');
+	src: url('./fonts/FuturaBT-Light/futura%20light%20bt.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family:'Futura-Bold';
+	src: url('./fonts/Futura-Bold/futur.ttf');
+	src: url('./fonts/Futura-Bold/futur.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
 /* = Blocs
 -------------------------------------------------------------- */
 
@@ -618,8 +634,8 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .img-container-1{
 	width:300px;
-	background-image:url("img/ezgif.com-optimize%20%283%29.gif");
-	background-size:265px auto;
+	background-image:url("img/Wouldyouratherfilterbyshahnanigansshahwalishayan.gif");
+	background-size:260px 530px;
 	background-position:center center;
 	background-repeat:no-repeat;
 	border-radius:0px 0px 0px 0px;
@@ -827,6 +843,7 @@ p{
 	font-weight:900;
 	line-height:px;
 	text-align:left;
+	width:85.33%;
 }
 .link-color{
 	color:#FEFFFF!important;
@@ -835,6 +852,7 @@ p{
 }
 .link-style{
 	font-size:18px;
+	color:#ffffff;
 }
 .h1-our-work-style{
 	font-family:"AvertaStd-Black";
@@ -1119,6 +1137,34 @@ p{
 .buttonsmobile{
 	font-family:"FuturaBT-Book";
 	font-size:16px;
+}
+.h1-bloc-24-style{
+	font-size:30px;
+	font-weight:bold;
+}
+.h2-bloc-24-style{
+	font-size:26px;
+	color:#FEFFFF!important;
+	font-weight:bold;
+	font-family:"FuturaBT-Book";
+}
+.privacypolicylinks{
+	color:#9437FF!important;
+}
+.row-footeraboutus-style{
+	width:100%;
+}
+.email{
+	color:#ABDA1F!important;
+}
+.email:hover{
+	color:#B9FF09!important;
+}
+.email:active{
+	color:#B9FF09!important;
+}
+.p-email-style{
+	font-size:20px;
 }
 
 /* = Colour
@@ -1536,6 +1582,13 @@ p{
 	.label-style{
 		font-size:18px;
 	}
+	.link-style{
+		margin-top:-51px;
+	}
+	.p-email-style{
+		font-size:17px;
+		color:#ffffff;
+	}
 	
 	/* MD Row Margin Offsets */
 	.voffset-clear-md{
@@ -1705,6 +1758,13 @@ p{
 		font-size:14px;
 		font-weight:normal;
 		width:130px;
+	}
+	.link-footeraboutus-style{
+		width:100%;
+	}
+	.h4-about-style{
+		width:58.71%;
+		font-size:18px;
 	}
 	
 }
@@ -1946,6 +2006,16 @@ p{
 	}
 	.label-style{
 		font-size:14px;
+	}
+	.h1-bloc-24-style{
+		font-family:"FuturaBT-Book";
+	}
+	.h4-about-style{
+		font-size:20px;
+		font-family:"FuturaBT-Book";
+	}
+	.p-email-style{
+		font-size:15px;
 	}
 	
 	/* Mobile Text Margin Offsets */
