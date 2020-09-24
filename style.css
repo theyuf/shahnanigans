@@ -43,9 +43,17 @@ a:hover{text-decoration: none; cursor:pointer;}
 }
 
 @font-face {
-	font-family:'FuturaBT-Heavy';
-	src: url('./fonts/FuturaBT-Heavy/Futura%20Heavy%20font.ttf');
-	src: url('./fonts/FuturaBT-Heavy/Futura%20Heavy%20font.ttf') format('truetype');
+	font-family:'FuturaBT-Light';
+	src: url('./fonts/FuturaBT-Light/futura%20light%20bt.ttf');
+	src: url('./fonts/FuturaBT-Light/futura%20light%20bt.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family:'Futura-Bold';
+	src: url('./fonts/Futura-Bold/futur.ttf');
+	src: url('./fonts/Futura-Bold/futur.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
