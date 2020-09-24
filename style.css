@@ -42,22 +42,6 @@ a:hover{text-decoration: none; cursor:pointer;}
 	font-style: normal;
 }
 
-@font-face {
-	font-family:'FuturaBT-Light';
-	src: url('./fonts/FuturaBT-Light/futura%20light%20bt.ttf');
-	src: url('./fonts/FuturaBT-Light/futura%20light%20bt.ttf') format('truetype');
-	font-weight: normal;
-	font-style: normal;
-}
-
-@font-face {
-	font-family:'Futura-Bold';
-	src: url('./fonts/Futura-Bold/futur.ttf');
-	src: url('./fonts/Futura-Bold/futur.ttf') format('truetype');
-	font-weight: normal;
-	font-style: normal;
-}
-
 /* = Blocs
 -------------------------------------------------------------- */
 
