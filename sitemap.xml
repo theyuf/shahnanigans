@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://www.shahnanigans.co.uk</loc>
-	<lastmod>2022-08-11</lastmod>
+	<lastmod>2022-08-12</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -79,34 +79,20 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://www.shahnanigans.co.uk/about-us/</loc>
-	<lastmod>2022-08-11</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://www.shahnanigans.co.uk/img/Text%20without%20Logo%20White.png</image:loc>
-	<image:title>Shahnanigans%20Creative%20Studio%20|%20Augmented%20Reality%20Instagram%20Filters</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://www.shahnanigans.co.uk/img/Shah.gif</image:loc>
-	<image:title>Shahwali%20Shayan%20Augmented%20reality%20designer%20and%20Instagram%20filter%20creator</image:title>
-	</image:image>
-</url>
-<url>
 	<loc>https://www.shahnanigans.co.uk/privacy-policy/</loc>
-	<lastmod>2022-08-11</lastmod>
+	<lastmod>2022-08-12</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 </url>
 <url>
 	<loc>https://www.shahnanigans.co.uk/cookie-policy/</loc>
-	<lastmod>2022-08-11</lastmod>
+	<lastmod>2022-08-12</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 </url>
 <url>
 	<loc>https://www.shahnanigans.co.uk/nfts/</loc>
-	<lastmod>2022-08-11</lastmod>
+	<lastmod>2022-08-12</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -123,13 +109,17 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://www.shahnanigans.co.uk/contact-us/</loc>
-	<lastmod>2022-08-11</lastmod>
+	<loc>https://www.shahnanigans.co.uk/links/</loc>
+	<lastmod>2022-08-12</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
+	<image:loc>https://www.shahnanigans.co.uk/img/DP.png</image:loc>
+	<image:title>DP</image:title>
+	</image:image>
+	<image:image>
 	<image:loc>https://www.shahnanigans.co.uk/img/Text%20without%20Logo%20White.png</image:loc>
-	<image:title>Shahnanigans%20Creative%20Studio%20|%20Augmented%20Reality%20Instagram%20Filters</image:title>
+	<image:title>Text%2520without%2520Logo%2520White</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://www.shahnanigans.co.uk/img/</image:loc>
