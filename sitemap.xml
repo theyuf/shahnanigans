@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://www.shahnanigans.co.uk</loc>
-	<lastmod>2024-05-12</lastmod>
+	<lastmod>2024-05-13</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -142,6 +142,14 @@
 	<image:title> Instagram Filter for Sony Music </image:title>
 	</image:image>
 	<image:image>
+	<image:loc>https://www.shahnanigans.co.uk/img/SLN%20Partner%20Badge.PNG</image:loc>
+	<image:title>SLN Partner Badge.PNG</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.shahnanigans.co.uk/img/SLN%20Partner%20Badge.webp</image:loc>
+	<image:title>SLN Partner Badge.PNG</image:title>
+	</image:image>
+	<image:image>
 	<image:loc>https://www.shahnanigans.co.uk/img/Apple%20iPhone%20XS%20Space%20Grey.png</image:loc>
 	<image:title>Callen Schaub Instagram Filter by Shahnanigans</image:title>
 	</image:image>
@@ -192,19 +200,19 @@
 </url>
 <url>
 	<loc>https://www.shahnanigans.co.uk/privacy-policy/</loc>
-	<lastmod>2024-05-12</lastmod>
+	<lastmod>2024-05-13</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 </url>
 <url>
 	<loc>https://www.shahnanigans.co.uk/cookie-policy/</loc>
-	<lastmod>2024-05-12</lastmod>
+	<lastmod>2024-05-13</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 </url>
 <url>
 	<loc>https://www.shahnanigans.co.uk/nfts/</loc>
-	<lastmod>2024-05-12</lastmod>
+	<lastmod>2024-05-13</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -226,7 +234,7 @@
 </url>
 <url>
 	<loc>https://www.shahnanigans.co.uk/links/</loc>
-	<lastmod>2024-05-12</lastmod>
+	<lastmod>2024-05-13</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
