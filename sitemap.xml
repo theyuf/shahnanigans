@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://www.shahnanigans.co.uk</loc>
-	<lastmod>2024-05-14</lastmod>
+	<lastmod>2024-05-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -199,20 +199,84 @@
 	</image:image>
 </url>
 <url>
+	<loc>https://www.shahnanigans.co.uk/about-us/</loc>
+	<lastmod>2024-05-15</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://www.shahnanigans.co.uk/img/Text%20without%20Logo%20White.png</image:loc>
+	<image:title>Shahnanigans Creative Studio | Augmented Reality Instagram Filters</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.shahnanigans.co.uk/img/Text%20without%20Logo%20White.webp</image:loc>
+	<image:title>Shahnanigans Creative Studio | Augmented Reality Instagram Filters</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.shahnanigans.co.uk/img/Website,%20Shah.jpg</image:loc>
+	<image:title>Shahwali Shayan</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.shahnanigans.co.uk/img/Website,%20Shah.webp</image:loc>
+	<image:title>Shahwali Shayan</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.shahnanigans.co.uk/img/David%20Profile%20Picture.jpg</image:loc>
+	<image:title>David Aston</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.shahnanigans.co.uk/img/David%20Profile%20Picture.webp</image:loc>
+	<image:title>David Aston</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.shahnanigans.co.uk/img/Website,%20Shah.jpg</image:loc>
+	<image:title>David Aston</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.shahnanigans.co.uk/img/Website,%20Shah.webp</image:loc>
+	<image:title>David Aston</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.shahnanigans.co.uk/img/Shah.gif</image:loc>
+	<image:title>Shahwali Shayan Augmented reality designer and Instagram filter creator</image:title>
+	</image:image>
+</url>
+<url>
 	<loc>https://www.shahnanigans.co.uk/privacy-policy/</loc>
-	<lastmod>2024-05-14</lastmod>
+	<lastmod>2024-05-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 </url>
 <url>
 	<loc>https://www.shahnanigans.co.uk/cookie-policy/</loc>
-	<lastmod>2024-05-14</lastmod>
+	<lastmod>2024-05-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 </url>
 <url>
 	<loc>https://www.shahnanigans.co.uk/nfts/</loc>
-	<lastmod>2024-05-14</lastmod>
+	<lastmod>2024-05-15</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://www.shahnanigans.co.uk/img/Text%20without%20Logo%20White.png</image:loc>
+	<image:title>Shahnanigans Creative Studio | Augmented Reality Instagram Filters</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.shahnanigans.co.uk/img/Text%20without%20Logo%20White.webp</image:loc>
+	<image:title>Shahnanigans Creative Studio | Augmented Reality Instagram Filters</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.shahnanigans.co.uk/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.shahnanigans.co.uk/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://www.shahnanigans.co.uk/contact-us/</loc>
+	<lastmod>2024-05-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -234,7 +298,7 @@
 </url>
 <url>
 	<loc>https://www.shahnanigans.co.uk/links/</loc>
-	<lastmod>2024-05-14</lastmod>
+	<lastmod>2024-05-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
